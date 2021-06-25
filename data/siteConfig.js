@@ -46,8 +46,8 @@ module.exports = {
     {
       company: "Gympass",
       begin: {
-        month: 'sep',
-        year: '2019'
+        month: 'ene',
+        year: '2020'
       },
       duration: null,
       occupation: "Frontend developer",
