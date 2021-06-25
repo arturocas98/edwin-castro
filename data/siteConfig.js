@@ -3,7 +3,7 @@ module.exports = {
   siteDescription: `Create your online curriculum in just a few minutes with this starter`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
   authorName: 'Francisco Santos',
-  twitterUsername: '_franciscodf',
+  twitterUsername: 'arturo_castro10',
   githubUsername: 'arturocas98',
   authorAvatar: '/images/perfil.jpg',
   authorDescription: `Desarrollador autodidacta apasionado por lo que hago. Siempre interesado en cómo se hacían los sitios, comencé a estudiar HTML por afición.<br />
