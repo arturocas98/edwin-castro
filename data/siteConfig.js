@@ -121,7 +121,7 @@ module.exports = {
       url: '/',
     },
     {
-      label: 'Portafolio',
+      label: 'Portifolio',
       url: '/portifolio',
     }
   ]
