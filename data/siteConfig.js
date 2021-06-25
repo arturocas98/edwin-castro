@@ -117,7 +117,7 @@ module.exports = {
   icon: 'src/assets/gatsby-icon.png',
   headerLinks: [
     {
-      label: 'Bien',
+      label: 'Home',
       url: '/',
     },
     {
