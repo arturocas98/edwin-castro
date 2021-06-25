@@ -55,7 +55,7 @@ module.exports = {
         " brindando mantenimiento y creación de modulos en ERP empresarial usando Laravel y angular."
   
     },  {
-      company: "Lendico",
+      company: "Nextcode",
       begin: {
         month: 'apr',
         year: '2018'
