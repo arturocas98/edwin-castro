@@ -60,7 +60,7 @@ module.exports = {
         month: 'ene',
         year: '2020'
       },
-      duration: null,
+      duration: 1,
       occupation: "Frontend developer",
       description: "I integrate the Frontend team responsible for developing and maintaining the online lending platform."
   
