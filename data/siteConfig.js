@@ -103,7 +103,7 @@ module.exports = {
     twitter: "https://twitter.com/_franciscodf",
     linkedin: "https://www.linkedin.com/in/santos-francisco",
     github: "https://github.com/arturocas98",
-    email: "yoshi.df@gmail.com"
+    email: "arturocastro98@hotmail.com"
   },
   siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
