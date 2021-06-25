@@ -57,8 +57,8 @@ module.exports = {
     },  {
       company: "Nextcode",
       begin: {
-        month: 'apr',
-        year: '2018'
+        month: 'ene',
+        year: '2020'
       },
       duration: null,
       occupation: "Frontend developer",
