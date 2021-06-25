@@ -101,7 +101,7 @@ module.exports = {
   ],
   social: {
     twitter: "https://twitter.com/_franciscodf",
-    linkedin: "https://www.linkedin.com/in/santos-francisco",
+    linkedin: "https://www.linkedin.com/in/arturocastro98",
     github: "https://github.com/arturocas98",
     email: "arturocastro98@hotmail.com"
   },
