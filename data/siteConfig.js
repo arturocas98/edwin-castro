@@ -62,7 +62,8 @@ module.exports = {
       },
       duration: 1,
       occupation: "Desarrollador Full Stack",
-      description: "I integrate the Frontend team responsible for developing and maintaining the online lending platform."
+      description: "Fui parte del equipo de desarrollo en el área de sistemas" +
+        " brindando mantenimiento y creación de modulos en ERP empresarial usando Laravel y angular."
   
     }, {
       company: "Anapro",
