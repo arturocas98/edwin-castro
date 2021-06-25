@@ -102,7 +102,7 @@ module.exports = {
   social: {
     twitter: "https://twitter.com/_franciscodf",
     linkedin: "https://www.linkedin.com/in/santos-francisco",
-    github: "https://github.com/santosfrancisco",
+    github: "https://github.com/arturocas98",
     email: "yoshi.df@gmail.com"
   },
   siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
