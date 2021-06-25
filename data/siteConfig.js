@@ -44,7 +44,7 @@ module.exports = {
   jobs: [
     /* more jobs here */
     {
-      company: "Gympass",
+      company: "NextCode",
       begin: {
         month: 'ene',
         year: '2020'
