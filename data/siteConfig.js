@@ -50,7 +50,7 @@ module.exports = {
         year: '2020'
       },
       duration: null,
-      occupation: "Frontend developer",
+      occupation: "Desarrollador Full Stack",
       description: "I am part of the Corporate team, responsible for the development and maintenance of the employee management platform, giving more and more autonomy to partner companies."
   
     },  {
