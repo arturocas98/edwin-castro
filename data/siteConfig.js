@@ -24,7 +24,7 @@ module.exports = {
       level: 50
     },
     {
-      name: 'Angular',
+      name: 'Node',
       level: 80
     },
     {
