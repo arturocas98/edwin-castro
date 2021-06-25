@@ -51,7 +51,8 @@ module.exports = {
       },
       duration: null,
       occupation: "Desarrollador Full Stack",
-      description: "I am part of the Corporate team, responsible for the development and maintenance of the employee management platform, giving more and more autonomy to partner companies."
+      description: "Mantenimiento y creación de modulos en ERP empresarialusando Laravel y angular.
+"
   
     },  {
       company: "Lendico",
