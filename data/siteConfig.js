@@ -51,7 +51,7 @@ module.exports = {
       },
       duration: null,
       occupation: "Desarrollador Full Stack",
-      description: "Fui parte del equipo de desarrollo" +
+      description: "Fui parte del equipo de desarrollo en el area de sis" +
         "Mantenimiento y creación de modulos en ERP empresarial usando Laravel y angular."
   
     },  {
