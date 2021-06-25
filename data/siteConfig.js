@@ -35,6 +35,10 @@ module.exports = {
       name: 'Git',
       level: 90
     },
+    {
+      name: 'Git',
+      level: 80
+    },
     /* more skills here */
   ],
   jobs: [
