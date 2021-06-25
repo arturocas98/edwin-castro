@@ -33,7 +33,7 @@ module.exports = {
     },
     {
       name: 'Git',
-      level: 70
+      level: 90
     },
     /* more skills here */
   ],
