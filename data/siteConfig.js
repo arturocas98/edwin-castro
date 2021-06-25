@@ -51,8 +51,8 @@ module.exports = {
       },
       duration: null,
       occupation: "Desarrollador Full Stack",
-      description: "Fui parte del equipo de desarrollo en el area de sis" +
-        "Mantenimiento y creación de modulos en ERP empresarial usando Laravel y angular."
+      description: "Fui parte del equipo de desarrollo en el area de sistemas" +
+        "brindando mantenimiento y creación de modulos en ERP empresarial usando Laravel y angular."
   
     },  {
       company: "Lendico",
