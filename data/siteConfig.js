@@ -35,10 +35,6 @@ module.exports = {
       name: 'Git',
       level: 90
     },
-    {
-      name: 'Angular',
-      level: 70
-    },
     /* more skills here */
   ],
   jobs: [
