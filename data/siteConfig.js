@@ -6,7 +6,7 @@ module.exports = {
   twitterUsername: '_franciscodf',
   githubUsername: 'santosfrancisco',
   authorAvatar: '/images/perfil.jpg',
-  authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />
+  authorDescription: `Desarrollar autodidacta apasionado <br />
     In 2012 I started working as a support technician and I approached the developers.
     In 2015, I started to study C # and started to contribute with the team giving maintenance in an application in C # and .NET. <br />
     I currently work as a frontend developer and mainly work with <strong>Javascript, NodeJS e React.</strong>`,
