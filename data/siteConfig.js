@@ -4,7 +4,7 @@ module.exports = {
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
   authorName: 'Francisco Santos',
   twitterUsername: '_franciscodf',
-  githubUsername: 'santosfrancisco',
+  githubUsername: 'arturocas98',
   authorAvatar: '/images/perfil.jpg',
   authorDescription: `Desarrollador autodidacta apasionado por lo que hago. Siempre interesado en cómo se hacían los sitios, comencé a estudiar HTML por afición.<br />
     In 2012 I started working as a support technician and I approached the developers.
