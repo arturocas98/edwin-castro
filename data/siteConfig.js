@@ -37,7 +37,7 @@ module.exports = {
     },
     {
       name: 'Angular',
-      level: 80
+      level: 70
     },
     /* more skills here */
   ],
