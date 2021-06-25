@@ -100,7 +100,7 @@ module.exports = {
     /* more portifolio items here */
   ],
   social: {
-    twitter: "https://twitter.com/arturo_castro10",
+    twitter: "https://twitter.com/Arturo_Castro10",
     linkedin: "https://www.linkedin.com/in/arturocastro98",
     github: "https://github.com/arturocas98",
     email: "arturocastro98@hotmail.com"
