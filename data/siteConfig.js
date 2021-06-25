@@ -52,7 +52,7 @@ module.exports = {
       duration: null,
       occupation: "Desarrollador FrontEnd",
       description: "Fui parte del equipo de desarrollo en el área de sistemas" +
-        " en la migración de portales a Sharepoint Online "
+        " en la migración de portales a Sharepoint Online utilizando Angular y Sharepoint Framework"
   
     },  {
       company: "Nextcode",
