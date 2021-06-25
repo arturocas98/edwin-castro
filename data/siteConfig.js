@@ -50,7 +50,7 @@ module.exports = {
         year: '2021'
       },
       duration: null,
-      occupation: "Desarrollador Full Stack",
+      occupation: "Desarrollador FrontEnd",
       description: "Fui parte del equipo de desarrollo en el área de sistemas" +
         " brindando mantenimiento y creación de modulos en ERP empresarial usando Laravel y angular."
   
@@ -61,7 +61,7 @@ module.exports = {
         year: '2020'
       },
       duration: 1,
-      occupation: "Frontend developer",
+      occupation: "Desarrollador Full Stack",
       description: "I integrate the Frontend team responsible for developing and maintaining the online lending platform."
   
     }, {
