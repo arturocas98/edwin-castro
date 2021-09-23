@@ -69,7 +69,7 @@ module.exports = {
   portifolio: [
     {
       image: "/images/gatsby-starter-cv.png",
-      description: "Gatsby starter CV template",
+      description: "Marketplace en Angular",
       url: "https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/"
     },
     {
