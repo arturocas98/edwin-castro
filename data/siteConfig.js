@@ -48,6 +48,9 @@ module.exports = {
         month: 'ene',
         year: '2021'
       },
+      end:{
+          month:
+      },
       duration: "8 meses",
       occupation: "Desarrollador FrontEnd",
       description: "Fui parte del equipo de desarrollo en el área de sistemas" +
