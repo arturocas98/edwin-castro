@@ -15,7 +15,7 @@ const Timeline = ({ className }) => (
           <span className="timeline__date">
             <span className="timeline__month">{job.begin.month}</span>
             <span className="timeline__year">{job.begin.year}</span>
-            <span className="" ></span>
+            <span className="timeline__year" ></span>
           </span>
           <div className="timeline__card">
             <h2 className='timeline__card-title'>
