@@ -7,9 +7,13 @@ module.exports = {
   githubUsername: 'arturocas98',
   authorAvatar: '/images/perfil.jpg',
   authorDescription: `Desarrollador autodidacta apasionado por lo que hago. Siempre interesado en cómo se hacían los sitios, comencé a estudiar HTML por afición.<br />
-    In 2012 I started working as a support technician and I approached the developers.
-    In 2015, I started to study C # and started to contribute with the team giving maintenance in an application in C # and .NET. <br />
-    I currently work as a frontend developer and mainly work with <strong>Javascript, NodeJS e React.</strong>`,
+    Gran motivación para seguir
+perfeccionando habilidades y
+crecer profesionalmente. Confío
+plenamente en mi capacidad
+para proponer ideas y mejoras en
+sistemas realizados.
+`,
   skills: [
     {
       name: 'HTML',
