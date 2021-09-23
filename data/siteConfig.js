@@ -7,9 +7,7 @@ module.exports = {
   githubUsername: 'arturocas98',
   authorAvatar: '/images/perfil.jpg',
   authorDescription: `Desarrollador autodidacta apasionado por lo que hago. Siempre interesado en cómo se hacían los sitios, comencé a estudiar HTML por afición.<br />
-    Gran motivación para seguir
-perfeccionando habilidades y
-crecer profesionalmente. Confío
+    Gran motivación para seguir perfeccionando habilidades y crecer profesionalmente. Confío
 plenamente en mi capacidad
 para proponer ideas y mejoras en
 sistemas realizados.
