@@ -31,7 +31,7 @@ module.exports = {
       level: 50
     },
     {
-      name: 'Git',
+      name: 'Laravel',
       level: 90
     },
     {
