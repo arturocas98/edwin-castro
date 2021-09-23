@@ -27,8 +27,8 @@ module.exports = {
       level: 80
     },
     {
-      name: 'React',
-      level: 50
+      name: 'Ionic',
+      level: 70
     },
     {
       name: 'Laravel',
