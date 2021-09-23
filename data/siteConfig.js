@@ -48,7 +48,7 @@ module.exports = {
         month: 'ene',
         year: '2021'
       },
-      duration: null,
+      duration: '8 meses',
       occupation: "Desarrollador FrontEnd",
       description: "Fui parte del equipo de desarrollo en el área de sistemas" +
         " en la migración de portales a Sharepoint Online utilizando Angular y Sharepoint Framework"
