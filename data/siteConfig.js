@@ -69,23 +69,12 @@ module.exports = {
   portifolio: [
     {
       image: "/images/gatsby-starter-cv.png",
-      title: 'Marketplace en Angular',
-      description: "Marketplace en Angular Angular es un framework para aplicaciones web desarrollado en TypeScript, de código abierto, mantenido por Google, que se utiliza para crear y mantener aplicaciones web de una sola página.",
+      description: "Marketplace en",
       url: "https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/"
     },
     {
       image: "/images/awesome-grid.png",
-      description: "Responsive grid for ReactJS React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre",
-      url: "https://github.com/santosfrancisco/react-awesome-styled-grid"
-    },
-    {
-      image: "/images/gatsby-starter-cv.png",
-      description: "Marketplace en Angular Angular es un framework para aplicaciones web desarrollado en TypeScript, de código abierto, mantenido por Google, que se utiliza para crear y mantener aplicaciones web de una sola página.",
-      url: "https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/"
-    },
-    {
-      image: "/images/awesome-grid.png",
-      description: "Responsive grid for ReactJS React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre",
+      description: "Responsive grid for ReactJS",
       url: "https://github.com/santosfrancisco/react-awesome-styled-grid"
     },
     /* more portifolio items here */
