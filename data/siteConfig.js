@@ -50,6 +50,7 @@ module.exports = {
       },
       end:{
         month: 'ago',
+        year: '2021'
       },
       duration: "8 meses",
       occupation: "Desarrollador FrontEnd",
