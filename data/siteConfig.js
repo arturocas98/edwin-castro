@@ -70,7 +70,7 @@ module.exports = {
     {
       image: "/images/gatsby-starter-cv.png",
       description: "Marketplace en Angular",
-      description2:""
+      description2:"",
       url: "https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/"
     },
     {
