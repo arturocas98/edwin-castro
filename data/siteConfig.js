@@ -28,7 +28,7 @@ module.exports = {
     },
     {
       name: 'Ionic',
-      level: 70
+      level: 
     },
     {
       name: 'Laravel',
@@ -48,11 +48,7 @@ module.exports = {
         month: 'ene',
         year: '2021'
       },
-      end:{
-        month: 'ago',
-        year: '2021'
-      },
-      duration: "8 meses",
+      duration: null,
       occupation: "Desarrollador FrontEnd",
       description: "Fui parte del equipo de desarrollo en el área de sistemas" +
         " en la migración de portales a Sharepoint Online utilizando Angular y Sharepoint Framework"
