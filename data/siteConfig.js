@@ -32,7 +32,7 @@ module.exports = {
     },
     {
       name: 'Laravel',
-      level: 90
+      level: 85
     },
     {
       name: 'Angular',
