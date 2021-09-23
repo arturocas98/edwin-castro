@@ -77,6 +77,16 @@ module.exports = {
       description: "Responsive grid for ReactJS React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre",
       url: "https://github.com/santosfrancisco/react-awesome-styled-grid"
     },
+    {
+      image: "/images/gatsby-starter-cv.png",
+      description: "Marketplace en Angular sahsajskjshjdgasdagsddgsjdgkjdgdkjagdagdakj",
+      url: "https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/"
+    },
+    {
+      image: "/images/awesome-grid.png",
+      description: "Responsive grid for ReactJS React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre",
+      url: "https://github.com/santosfrancisco/react-awesome-styled-grid"
+    },
     /* more portifolio items here */
   ],
   social: {
