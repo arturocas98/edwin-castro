@@ -74,7 +74,7 @@ module.exports = {
     },
     {
       image: "/images/awesome-grid.png",
-      description: "Responsive grid for ReactJS",
+      description: "Responsive grid for ReactJS React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre",
       url: "https://github.com/santosfrancisco/react-awesome-styled-grid"
     },
     /* more portifolio items here */
