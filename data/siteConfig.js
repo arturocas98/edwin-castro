@@ -24,7 +24,7 @@ module.exports = {
     },
     {
       name: 'NodeJs',
-      level: 70
+      level: 80
     },
     {
       name: 'React',
