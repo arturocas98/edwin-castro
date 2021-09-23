@@ -69,8 +69,7 @@ module.exports = {
   portifolio: [
     {
       image: "/images/gatsby-starter-cv.png",
-      title : 'Marketplace en Angular',
-      description: "Gatsby starter CV template Angular es un framework para aplicaciones web desarrollado en TypeScript, de código abierto, mantenido por Google, que se utiliza para crear y mantener aplicaciones web de una sola página.",
+      description: "Gatsby starter CV template",
       url: "https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/"
     },
     {
