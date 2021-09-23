@@ -61,7 +61,6 @@ const Portifolio = ({ className, location }) => {
                 >
                   <Image src={withPrefix(job.image)} />
                   <p>{job.description}</p>
-                  <p> {job.description2} </p>
                 </JobCard>
               </Col>
             ))}
