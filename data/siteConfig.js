@@ -28,7 +28,7 @@ module.exports = {
     },
     {
       name: 'React',
-      level: 60
+      level: 50
     },
     {
       name: 'Git',
