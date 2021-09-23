@@ -28,7 +28,7 @@ module.exports = {
     },
     {
       name: 'Ionic',
-      level: 
+      level: 50
     },
     {
       name: 'Laravel',
