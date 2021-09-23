@@ -59,7 +59,7 @@ module.exports = {
         month: 'ene',
         year: '2020'
       },
-      duration: "1 yrs",
+      duration: "1 año",
       occupation: "Desarrollador Full Stack",
       description: "Fui parte del equipo de desarrollo en el área de sistemas" +
         " brindando mantenimiento y creación de modulos en ERP empresarial usando Laravel y angular."
