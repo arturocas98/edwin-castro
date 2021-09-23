@@ -60,7 +60,7 @@ const Portifolio = ({ className, location }) => {
                   target="_blank"
                 >
                   <Image src={withPrefix(job.image)} />
-                  <b job ></b>
+                  <b job.title ></b>
                   <p>{job.description}</p>
                 </JobCard>
               </Col>
