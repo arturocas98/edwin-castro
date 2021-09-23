@@ -64,26 +64,7 @@ module.exports = {
       description: "Fui parte del equipo de desarrollo en el área de sistemas" +
         " brindando mantenimiento y creación de modulos en ERP empresarial usando Laravel y angular."
   
-    }, {
-      company: "Anapro",
-      begin: {
-        month: 'dec',
-        year: '2016'
-      },
-      duration: '1 yr e 5 mos',
-      occupation: "Fullstack developer",
-      description: "Development and maintenance, corrective and preventive, of web applications for the real estate market."
-    }, {
-      company: "Anapro",
-      begin: {
-        month: 'set',
-        year: '2012'
-      },
-      duration: '4 yrs e 3 mos',
-      occupation: "Support Technician",
-      description: "Responsible for the implementation and parameterization of the system, training and customer support. Acting also in person in real estate launches guaranteeing the success and good use of the tool."
-  
-    },
+    }
   ],
   portifolio: [
     {
