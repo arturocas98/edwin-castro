@@ -68,7 +68,7 @@ module.exports = {
   ],
   portifolio: [
     {
-      image: "/images/markeplace.png",
+      image: "/images/gatsby-starter-cv.png",
       description: "Marketplace en Angular",
       url: "http://organic-gye.000webhostapp.com/home"
     },
