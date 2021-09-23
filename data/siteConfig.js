@@ -46,7 +46,7 @@ module.exports = {
       company: "Righttek",
       begin: {
         month: 'ene 2021',
-        year: '2021'
+        year: 'Ago 2021'
       },
       duration: "8 meses",
       occupation: "Desarrollador FrontEnd",
