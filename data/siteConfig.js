@@ -59,7 +59,7 @@ module.exports = {
         month: 'ene',
         year: '2020'
       },
-      duration: "1 año",
+      duration: "1 ",
       occupation: "Desarrollador Full Stack",
       description: "Fui parte del equipo de desarrollo en el área de sistemas" +
         " brindando mantenimiento y creación de modulos en ERP empresarial usando Laravel y angular."
@@ -69,7 +69,7 @@ module.exports = {
   portifolio: [
     {
       image: "/images/gatsby-starter-cv.png",
-      description: "Marketplace en angular usando pw",
+      description: "Gatsby starter CV template",
       url: "https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/"
     },
     {
